@@ -5,6 +5,7 @@ This project performs rigorous Exploratory Data Analysis (EDA) on the FIFA 22 co
 
 * **Dataset Dimensions:** 19,239 rows and 110 columns.
 * **Recommended Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook.
+* **Live EDA Notebook:**[view Interactive Notebook](https://github.com/Saiesh333/codenova-internship-project1/blob/main/EDA.ipynb)
 
 ---
 
